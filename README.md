@@ -10,7 +10,7 @@
   * [regression.py](./code/lgb/regression.py):lightgbm实现的回归
   * [multi_class_custom_feval.py](./code/lgb/multi_class_custom_feval.py):lightgbm 自定义评价函数实现多分类
   * [multi_class_weight_loss.py](./code/lgb/multi_class_weight_loss.py):lightgbm多类别不平衡问题，实现类别加权优化
-   **啊啊啊 
+   ** 啊啊啊 
 * xgboost
   * [binary_class.py](./code/xgb/binary_class.py):xgboost实现的二分类
   * [multi_class.py](./code/xgb/multi_class.py):xgboost实现的多分类
